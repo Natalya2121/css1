@@ -123,7 +123,7 @@ section .text-wrapper p:only-of-type {
     color: red;
 }
 
-.lesson-three-task-ten p::first-line {
+.lesson-three-task-ten p:first-of-type::first-line {
     background: yellow;
 }
 
